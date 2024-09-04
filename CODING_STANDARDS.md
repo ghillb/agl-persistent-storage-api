@@ -115,19 +115,6 @@ mod tests {
 }
 ```
 
-## Version Control
-
-- Commit messages should be concise but descriptive, following the format: `Type: Short description`.
-- Group related changes into a single commit.
-- Reference issue numbers in commit messages where relevant.
-- Use branches for all work, and merge to `master` through pull requests.
-
-Example:
-```text
-fix: Corrected off-by-one error in loop
-feat: Added user authentication module
-```
-
 ## Tools
 
 - Use the following tools to ensure code quality:
